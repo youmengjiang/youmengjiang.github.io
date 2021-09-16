@@ -6,7 +6,7 @@
   <link href="http://www.memory_dream.cn/atom.xml" rel="self"/>
   
   <link href="http://www.memory_dream.cn/"/>
-  <updated>2021-09-14T01:07:43.382Z</updated>
+  <updated>2021-09-16T01:13:33.255Z</updated>
   <id>http://www.memory_dream.cn/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.memory_dream.cn/posts/0.html"/>
+    <id>http://www.memory_dream.cn/posts/0.html</id>
+    <published>2021-09-16T01:00:29.236Z</published>
+    <updated>2021-09-16T01:13:33.255Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的Blog"><a href="#我的Blog" class="headerlink" title="我的Blog"></a>我的Blog</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
